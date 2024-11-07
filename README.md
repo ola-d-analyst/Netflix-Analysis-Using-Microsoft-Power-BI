@@ -2,6 +2,8 @@
 
 ## Netflix Content Analysis Report
 
+![Netflix Dashboard](https://drive.google.com/uc?export=view&id=1j7O7D7nKLCHtphChaSpeOrJoznj4mNYu)
+
 **Date**: November 7, 2024
 
 ---
